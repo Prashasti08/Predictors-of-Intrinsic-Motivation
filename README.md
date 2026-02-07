@@ -1,4 +1,4 @@
-# # **Validation and Model Robustness**
+# **Validation and Model Robustness**
 
 ## **Project Summary**
 
